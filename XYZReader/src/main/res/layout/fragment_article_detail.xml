@@ -100,6 +100,8 @@
         android:contentDescription="@string/action_share"
         android:src="@drawable/ic_share"
         android:stateListAnimator="@anim/fab_state_list_anim"
-        tools:ignore="UnusedAttribute" />
+        tools:ignore="UnusedAttribute"
+        android:elevation="6dp"
+        />
 
 </com.example.xyzreader.ui.DrawInsetsFrameLayout>
